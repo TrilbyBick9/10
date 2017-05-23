@@ -47,6 +47,10 @@ KeyboardInputManager.prototype.listen = function () {
     68: 1, // D
     83: 2, // S
     65: 3  // A
+    87: 0, // 1
+    68: 1, // 2
+    83: 2, // 3
+    65: 3  // 4
   };
 
   // Respond to direction keys
